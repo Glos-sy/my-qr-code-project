@@ -1,3 +1,5 @@
+https://glos-sy.github.io/my-qr-code-project/
+
 Title: This project is a QR Code Scan Page.
 
 About: This is my first-ever webpage created from scatch; with eagerness on my part to apply my recently acquired knowledge and skills of HTML and CSS.
