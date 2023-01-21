@@ -1,1 +1,1 @@
-# qr-code-project
+# my-qr-code-project
